@@ -10,7 +10,7 @@
 // independently verified. All text is rendered with real fonts, so nothing
 // is garbled, and the layout still reads at 300 pixels across.
 // The gate takes a whole PNG or JPEG of at most 1 MiB and 1024 by 1024
-// pixels; this entry.png is a 1024x1024 JPEG (313,279 bytes). The copy is
+// pixels; this entry.png is a 1024x1024 JPEG (320,657 bytes). The copy is
 // byte-exact and deterministic, so both grader runs write the same file.
 // No network, no randomness, no dependencies beyond the standard library.
 //
