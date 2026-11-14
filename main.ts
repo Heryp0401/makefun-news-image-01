@@ -5,7 +5,7 @@
 // the Ukraine peace talks (lead), Nvidia's chief resigns as shares fall 16%,
 // Microsoft mail and Teams go down worldwide, tankers are hit in the
 // Strait of Hormuz, and Indonesia's vice president Gibran Rakabuming Raka
-// resigns after a court dispute over his school certificate. Every headline was checked against that day's reporting;
+// resigns at his own request. Every headline was checked against that day's reporting;
 // the Iran radar claim is attributed ("Iran claims") because it was not
 // independently verified. All text is rendered with real fonts, so nothing
 // is garbled, and the layout still reads at 300 pixels across.
