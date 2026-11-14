@@ -1,10 +1,11 @@
 // news-image-01 entry (Node 22, standard library only): the image is the
 // entry.png beside this file, and the program copies it to /output/entry.png.
 // The image is an illustrated newspaper front page, "THE WORLD IN ONE DAY",
-// summing up Friday 13 November 2026 in four verified stories: Europe joins
+// summing up Friday 13 November 2026 in five verified stories: Europe joins
 // the Ukraine peace talks (lead), Nvidia's chief resigns as shares fall 16%,
-// Microsoft mail and Teams go down worldwide, and tankers are hit in the
-// Strait of Hormuz. Every headline was checked against that day's reporting;
+// Microsoft mail and Teams go down worldwide, tankers are hit in the
+// Strait of Hormuz, and Indonesia's vice president Gibran Rakabuming Raka
+// resigns after a court dispute over his school certificate. Every headline was checked against that day's reporting;
 // the Iran radar claim is attributed ("Iran claims") because it was not
 // independently verified. All text is rendered with real fonts, so nothing
 // is garbled, and the layout still reads at 300 pixels across.
